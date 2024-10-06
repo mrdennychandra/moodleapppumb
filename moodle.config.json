@@ -87,7 +87,14 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [],
+    "sites": [
+        {
+            "name": "MangSomad",
+            "alias": "MangSomad",
+            "url": "https://mangsomad.org/",
+            "staging": false
+        }
+    ],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,

@@ -1,42 +1,26 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "406649016202",
+    "project_id": "mobile-lms-umbandung",
+    "storage_bucket": "mobile-lms-umbandung.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:406649016202:android:1ed6c919fe1ed1b1768273",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "id.ac.umbandung.lms.app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyD9sTaYZhqv1wMJ6VkiuQERXkoTsqgvNlw"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
           "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

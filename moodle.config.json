@@ -89,9 +89,9 @@
     "customurlscheme": "moodlemobile",
     "sites": [
         {
-            "name": "MangSomad",
-            "alias": "MangSomad",
-            "url": "https://mangsomad.org/",
+            "name": "UMBandung Mobile LMS",
+            "alias": "UMBandung Mobile LMS",
+            "url": "https://lms.umbandung.ac.id/",
             "staging": false
         }
     ],
